@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e66dd484-6b91-4adc-a6bf-30082b89a0c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient/MessagesClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient/web/AuthorizationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient/web/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-client/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/java/org/example/oauthserver/DefaultAuthorizationServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/java/org/example/oauthserver/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/java/org/example/oauthserver/config/DefaultSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/java/org/example/oauthserver/jose/Jwks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/java/org/example/oauthserver/jose/KeyGeneratorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/resources/authorization/client/oauth2-registered-client-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/resources/authorization/oauth2-authorization-consent-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/src/main/resources/authorization/oauth2-authorization-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourceserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourceserver/src/main/java/org/example/resourceserver/MessagesResourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourceserver/src/main/java/org/example/resourceserver/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourceserver/src/main/java/org/example/resourceserver/web/MessagesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourceserver/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="u6d2bs1o" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ipieh2xGoyjNNUBrMzIdMZRItW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "/Users/iamsiberian/IdeaProjects/spring-security-sample2/oauth-server/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oauth-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/resourceserver/src/main/java/org/example/resourceserver" />
+      <recent name="$PROJECT_DIR$/resourceserver/src/main/resources" />
+      <recent name="$PROJECT_DIR$/oauth-client/src/main/java/org/example/oauthclient" />
+      <recent name="$PROJECT_DIR$/oauth-client/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MessagesClientApplication">
+    <configuration name="DefaultAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="oauth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.oauthserver.DefaultAuthorizationServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.oauthserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="oauth-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.oauthclient.MessagesClientApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.oauthclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="resourceserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.resourceserver.MessagesResourceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.resourceserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MessagesClientApplication" />
+        <item itemvalue="Spring Boot.MessagesResourceApplication" />
+        <item itemvalue="Spring Boot.DefaultAuthorizationServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66dd484-6b91-4adc-a6bf-30082b89a0c8" name="Changes" comment="" />
+      <created>1670885025852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670885025852</updated>
+      <workItem from="1670885027025" duration="11907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
